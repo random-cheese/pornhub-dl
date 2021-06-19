@@ -1,16 +1,15 @@
 # Pornhub-dl
 
-## 改动
-1. 如何设定下载路径
-2. 说明如何更新依赖
+## 比起原 repo, fork 后做了什么改动
+1. 增加的文档和注释都是中文
+1. 更新了第三方依赖库
+1. 增加文档：说明如何设定下载路径
+2. 增加文档：说明如何自行更新依赖
+```
+poetry update
+```
 
 Download all videos of your favorite pornhub models, playlists and channels and update all your stuff with a simple command.
-
-**DISCLAIMER**
-
-I haven't used this project in ages. Stuff might work, it might not work. \
-Fixes and PR's are always welcome, but it might take a while for them to be reviewed and merged.
-This project has a very low priority in my current schedule ;D.
 
 ## Setup
 
