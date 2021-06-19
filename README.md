@@ -1,5 +1,9 @@
 # Pornhub-dl
 
+## 改动
+1. 如何设定下载路径
+2. 说明如何更新依赖
+
 Download all videos of your favorite pornhub models, playlists and channels and update all your stuff with a simple command.
 
 **DISCLAIMER**
